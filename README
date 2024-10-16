@@ -1,5 +1,3 @@
-This Python script sorts files in the Downloads folder on a Windows system based on their file extensions. It will create separate folders for each file extension and move the files into their respective folders.
+This Python script sorts the files in a selected folder based on their extensions. It will create separate folders for each file extension and move the files to the appropriate folders.
 
-You can run this script on a Windows system to organize the files in the Downloads folder by file types. Make sure to replace the paths variable with the correct path to the Downloads folder on your system.
-
-When you run the script, it will count the number of files that have been moved to their respective folders based on the file extensions.
+You can run this script on your system to organize the files in a selected folder by file type.
